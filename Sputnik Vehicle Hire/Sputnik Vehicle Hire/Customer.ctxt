@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=surname\ firstName\ otherInitials\ title
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment10.params=scanner
+comment10.target=void\ readDataCustomer(java.util.Scanner)
+comment11.params=writer
+comment11.target=void\ writeData(java.io.PrintWriter)
+comment2.params=
+comment2.target=Customer()
+comment3.params=
+comment3.target=java.lang.String\ getCustomerID()
+comment4.params=customerID
+comment4.target=void\ setCustomerID(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getSurname()
+comment6.params=
+comment6.target=java.lang.String\ getFirstName()
+comment7.params=
+comment7.target=java.lang.String\ getOtherInitials()
+comment8.params=
+comment8.target=java.lang.String\ getTitle()
+comment9.params=
+comment9.target=void\ printDetails()
+numComments=12

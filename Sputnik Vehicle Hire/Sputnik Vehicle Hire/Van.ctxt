@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Van
+comment1.params=loadVolume\ slidingSideDoor
+comment1.target=Van(double,\ boolean)
+comment2.params=
+comment2.target=Van()
+comment3.params=
+comment3.target=double\ getLoadVolume()
+comment4.params=
+comment4.target=boolean\ hasSlidingSideDoor()
+comment5.params=scanner
+comment5.target=void\ readData(java.util.Scanner)
+comment6.params=
+comment6.target=void\ printDetails()
+numComments=7
