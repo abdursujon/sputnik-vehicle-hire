@@ -1,3 +1,5 @@
+<div align="left">
+
 # Sputnik Vehicle Hire
 
 **Language:** Java  
@@ -14,15 +16,6 @@ Sputnik Vehicle Hire is a console-based Java application designed to manage cust
 - Implement vehicle subcategories (cars, vans, trucks) for flexible rentals.
 - Reservation module checks for data conflicts and prevents overlapping bookings.
 
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/abdursujon/sputnik-vehicle-hire.git
-   ```
-2. Open the project in your preferred Java IDE.
-3. Compile and run the `Main.java` file.
-
 ## Usage
 
 - Follow on-screen prompts to add customers, vehicles, and manage reservations.
@@ -31,3 +24,5 @@ Sputnik Vehicle Hire is a console-based Java application designed to manage cust
 ## Author and Copyrights
 
 Abdur Sujon
+
+</div>
