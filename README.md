@@ -35,14 +35,17 @@ The design prioritises clarity, extensibility, and correctness over persistence 
 
 ## How to run the project
 
+- Can be run through IDE run button, or you can follow below instruction to build it from terminal. 
+
 ### Build the Project
 
 ```bash
 ./gradlew build
 ```
-dir build\libs
-java -jar  sputnik-vehicle-hire-system-1.0-SNAPSHOT.jar
-choose option to run different items such as Car, Truck, Reservations
+<p>Build a jar snaphot: dir build\libs</p>
+<p>Run the jar for example: java -jar  sputnik-vehicle-hire-system-1.0-SNAPSHOT.jar </p>
+<p>Choose option to run different items such as Car, Truck, Reservations in the terminal.</p>
+<p>You can choose a file manually or you can choose option 1-5 for autoconfigured demo result.</p>
 
 ### Run All Tests
 ```bash
