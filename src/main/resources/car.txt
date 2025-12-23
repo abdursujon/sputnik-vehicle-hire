@@ -1,0 +1,10 @@
+A, V001, REG101, Toyota, Corolla, Yes, 1.8, Petrol, Automatic, FWD, 42000, 2018-05-12, Sedan, 4, 5
+A, V002, REG102, BMW, 320i, Yes, 2.0, Petrol, Automatic, RWD, 38000, 2019-03-20, Sedan, 4, 5
+A, V003, REG103, Mercedes-Benz, C200, Yes, 2.0, Petrol, Automatic, RWD, 46000, 2017-11-08, Sedan, 4, 5
+A, V004, REG104, Audi, A4, Yes, 2.0, Diesel, Automatic, FWD, 51000, 2018-09-15, Sedan, 4, 5
+A, V005, REG105, Volkswagen, Golf, Yes, 1.5, Petrol, Manual, FWD, 33000, 2020-01-10, Hatchback, 5, 5
+A, V006, REG106, Ford, Focus, Yes, 1.6, Petrol, Manual, FWD, 47000, 2017-06-18, Hatchback, 5, 5
+A, V007, REG107, Honda, Civic, Yes, 1.5, Petrol, Automatic, FWD, 29000, 2021-04-22, Sedan, 4, 5
+A, V008, REG108, Hyundai, Elantra, Yes, 1.6, Petrol, Automatic, FWD, 36000, 2019-08-30, Sedan, 4, 5
+A, V009, REG109, Kia, Ceed, Yes, 1.6, Diesel, Manual, FWD, 54000, 2018-02-14, Hatchback, 5, 5
+A, V010, REG110, Nissan, Altima, Yes, 2.5, Petrol, Automatic, FWD, 40000, 2019-12-05, Sedan, 4, 5

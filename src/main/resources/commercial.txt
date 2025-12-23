@@ -1,0 +1,10 @@
+C,V201,REG201,Ford,Transit,Yes,2.0,Diesel,Manual,RWD,78000,2019-03-18,1350
+C,V202,REG202,Mercedes-Benz,Sprinter,Yes,2.1,Diesel,Automatic,RWD,92000,2018-07-22,1500
+C,V203,REG203,Volkswagen,Crafter,Yes,2.0,Diesel,Manual,FWD,64000,2020-01-10,1400
+C,V204,REG204,Iveco,Daily,No,2.3,Diesel,Manual,RWD,110000,2017-11-05,1800
+C,V205,REG205,Renault,Master,Yes,2.3,Diesel,Manual,FWD,85000,2019-09-14,1600
+C,V206,REG206,Peugeot,Boxer,No,2.2,Diesel,Manual,FWD,97000,2018-04-30,1550
+C,V207,REG207,Citroen,Relay,Yes,2.0,Diesel,Manual,FWD,72000,2021-06-12,1450
+C,V208,REG208,Nissan,NV400,Yes,2.3,Diesel,Manual,RWD,88000,2019-02-08,1700
+C,V209,REG209,Fiat,Ducato,Yes,2.3,Diesel,Automatic,FWD,69000,2020-10-19,1650
+C,V210,REG210,MAN,TGE,Yes,2.0,Diesel,Automatic,RWD,54000,2021-12-01,1750
