@@ -46,5 +46,6 @@ public class Van extends Commercial {
         super.printDetails();
         System.out.println("Load Volume: " + loadVolume);
         System.out.println("Sliding Side Door: " + (slidingSideDoor ? "Yes" : "No"));
+        System.out.println();
     }
 }

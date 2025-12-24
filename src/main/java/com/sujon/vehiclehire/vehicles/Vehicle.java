@@ -100,18 +100,17 @@ public class Vehicle {
 
     public void printDetails() {
         System.out.print("""
-                Make: %s
-                Model: %s
-                Group: %s
-                Vehicle Id: %s
-                Air conditioning/Climate Control: %s
-                Engine Size: %s
-                Fuel type: %s
-                Gearbox: %s
-                Transmission: %s
-                Mileage: %d
-                Date first registered: %s
-                """.formatted(
+            Make: %s
+            Model: %s
+            Group: %s
+            Vehicle Id: %s
+            Air conditioning/Climate Control: %s
+            Engine Size: %s
+            Fuel type: %s
+            Gearbox: %s
+            Transmission: %s
+            Mileage: %d
+            Date first registered: %s""".formatted(
                 make,
                 model,
                 group,
@@ -125,6 +124,7 @@ public class Vehicle {
                 dateFirstRegistered)
         );
     }
+
 
     public void readData(String[] p) {
         this.group = p[0].trim();

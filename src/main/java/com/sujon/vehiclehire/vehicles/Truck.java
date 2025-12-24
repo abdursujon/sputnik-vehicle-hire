@@ -43,8 +43,10 @@ public class Truck extends Commercial {
         }
     }
 
+    @Override
     public void printDetails() {
-        super.printDetails();
         System.out.println("Attributes: " + String.join(", ", attributes));
+        super.printDetails();
+        System.out.println();
     }
 }

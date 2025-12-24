@@ -1,0 +1,10 @@
+C,V301,REG301,Ford,Transit Custom,Yes,2.0,Diesel,Manual,FWD,68000,2019-04-15,6.0,Yes
+C,V302,REG302,Mercedes-Benz,Vito,Yes,2.1,Diesel,Automatic,RWD,74000,2018-08-22,6.6,Yes
+C,V303,REG303,Volkswagen,Transporter,Yes,2.0,Diesel,Manual,FWD,59000,2020-02-10,5.8,Yes
+C,V304,REG304,Renault,Trafic,No,1.6,Diesel,Manual,FWD,83000,2017-11-05,6.0,Yes
+C,V305,REG305,Peugeot,Expert,Yes,2.0,Diesel,Manual,FWD,72000,2019-06-18,5.3,Yes
+C,V306,REG306,Citroen,Dispatch,Yes,1.5,Diesel,Manual,FWD,64000,2021-03-30,5.3,Yes
+C,V307,REG307,Nissan,Primastar,Yes,2.0,Diesel,Manual,FWD,71000,2019-01-12,6.0,Yes
+C,V308,REG308,Fiat,Talento,Yes,1.6,Diesel,Manual,FWD,76000,2018-10-05,6.2,Yes
+C,V309,REG309,Toyota,Proace,Yes,2.0,Diesel,Automatic,FWD,69000,2020-07-19,5.8,Yes
+C,V310,REG310,Opel,Vivaro,Yes,2.0,Diesel,Manual,FWD,81000,2018-05-27,6.6,Yes

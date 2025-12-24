@@ -39,6 +39,7 @@ public class Commercial extends Vehicle {
 
     public void printDetails() {
         super.printDetails();
-        System.out.println("Payload: " + payload + "kg");
+        System.out.println("; Payload: " + payload + "kg");
+        System.out.println();
     }
 }

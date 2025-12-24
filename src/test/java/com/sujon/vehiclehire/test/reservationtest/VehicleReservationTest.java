@@ -1,4 +1,4 @@
-package com.sujon.vehiclehire.test;
+package com.sujon.vehiclehire.test.reservationtest;
 
 import com.sujon.vehiclehire.booking.BookingDetails;
 import java.io.InputStream;
